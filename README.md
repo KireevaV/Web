@@ -12,3 +12,12 @@ https://docs.google.com/spreadsheets/d/15bKTCrRbF8yvx6TPgvBAqq6QSowRtGt6zvA18Apl
 
 [G10-2025-05-25.pdf](https://github.com/user-attachments/files/20432726/G10-2025-05-25.pdf)
 
+# Отчеты о дефекте
+
+[Issues (1).xlsx](https://github.com/user-attachments/files/20646755/Issues.1.xlsx)
+
+# Тестовый прогон
+
+[G10-Test+run+2025_06_02.pdf](https://github.com/user-attachments/files/20646758/G10-Test%2Brun%2B2025_06_02.pdf)
+
+
