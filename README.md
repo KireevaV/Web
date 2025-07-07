@@ -14,7 +14,8 @@ https://docs.google.com/spreadsheets/d/15bKTCrRbF8yvx6TPgvBAqq6QSowRtGt6zvA18Apl
 
 # Отчеты о дефекте
 
-[Issues (1).xlsx](https://github.com/user-attachments/files/20646755/Issues.1.xlsx)
+[Issues (1).xlsx](https://github.com/user-attachments/files/21098503/Issues.1.xlsx)
+
 
 # Тестовый прогон
 
