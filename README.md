@@ -5,28 +5,36 @@
 ## Тест-план
 
 Напиисание тест-плана для веб-приложения, включающий цели, объём, ресурсы, расписание и риски
+
 [ссылка на документ]
 https://docs.google.com/spreadsheets/d/1mksrTz9ebLKv3wCpgNlsaaBksuLf_HoBybgN07RppVw/edit?gid=0#gid=0
 
 ## Чек-листы
 
 Написание чек-листов для модулей «Корзина» и «Оплата»
+
 [ссылка на документ]
 https://docs.google.com/spreadsheets/d/15bKTCrRbF8yvx6TPgvBAqq6QSowRtGt6zvA18AplV1E/edit?gid=0#gid=0
 
 ## Тест-кейсы
 
 Написание тест-кейсов в системе Qase с пошаговым описанием сценариев тестирования
+
+[документ]
 [G10-2025-05-25.pdf](https://github.com/user-attachments/files/20432726/G10-2025-05-25.pdf)
 
 ## Отчеты о дефекте
 
 Формирование отчета о дефектах с помощью YouTrack с пошаговым описанием сценариев тестирования
+
+[документ]
 [Issues (1).xlsx](https://github.com/user-attachments/files/21098503/Issues.1.xlsx)
 
 
 ## Тестовый прогон
 Проведение тестового проговна с помощью Qase с фактическими результатами выполнения тест-кейсов (Pass/Fail), комментариями и статусом выполнения.
+
+[документ]
 [G10-Test+run+2025_06_02.pdf](https://github.com/user-attachments/files/20646758/G10-Test%2Brun%2B2025_06_02.pdf)
 
 
